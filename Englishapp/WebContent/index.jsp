@@ -21,8 +21,8 @@
 
 <div class="content">
 
-<h1>Welcome to English Learning!!</h1>
-<h2>無料学習コンテンツで英単語学習してみよう!</h2>
+<h1>ようこそ！無料で遊べる英語学習サイトへ!!</h1>
+<h2>ためしに、英単語学習してみよう!</h2>
 
 <table class="menu">
     <tr>
